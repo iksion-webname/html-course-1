@@ -1,0 +1,26 @@
+
+Class : 7
+
+https://webground.in/courses/php-laravel/lesson/working-with-html-heading/
+
+*** browsure এ তিন ধরনের File থাকে । html , css , js 
+
+*** এই html , css , js File এর মধ্যে browsure সর্বপ্রথম html File দেখাবে । 
+
+
+***  h tage কে heading tage বলা হয় ।  h tage  6 প্রকার লেখা যায় । 
+
+1.  <h1>  </h1>
+2.  <h2>  </h2>
+3.  <h3>  </h3>
+4.  <h4>  </h4>
+5.  <h5>  </h5>
+6.  <h6>  </h6>
+
+N B :- h1 tage এর ভিতরের লেখার Size  সবচেয়ে বড় হবে এবং h6 tage এর ভিতরের লেখার Size সবচেয়ে ছোট দেখাবে । সাধারণত h3 ও h4 tage সবচেয়ে বেশি ব্যবহার করা হয়  । 
+
+N B :- h1 tage একটি page এর ভিতরে কেবলমাত্র একবার ব্যবহার করা যায় । 
+
+*** h1 tage এর পরের heading tage টি সবসময় h2 tage এ লিখতে হয় । অর্থাৎ সিরিয়ায় দিয়ে লিখতে হয় । 
+
+Last 20 munits
